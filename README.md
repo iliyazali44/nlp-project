@@ -12,4 +12,6 @@ Let's deep dive into the process/steps and core advantage of using this techniqu
 4. Analysis and getting insights from data
 5. Train the model with the cleaned data
 
-check the python file for complete code
+- check the python file for complete code
+
+- click here for reading my blog- https://iliyaz.hashnode.dev/twitter-sentiment-analysis
